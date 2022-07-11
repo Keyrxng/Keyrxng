@@ -6,6 +6,7 @@
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Keyrxng&label=Profile%20views&color=0e75b6&style=flat"
     alt="Keyrxng" /> 
   </p>
+  - 📫 Currently improving on: learning the Foundry framework
   - 📫 How to reach me via email: `keyrxng@proton.me`
   - 💻 How to reach me via telegram: <a href="http://t.me/Keyrxng" target="_blank" rel="noreferrer">@Keyrxng</a>
 <br>
@@ -30,11 +31,11 @@
       src="https://pbs.twimg.com/profile_images/1317925773425168384/XQkaoFRg_400x400.jpg"
       alt="hardhat" width="60" height="60" /> </a><a href="https://tenderly.co/" target="_blank"
     rel="noreferrer"> <img
-      src="https://tenderly.co/static/logo-vertical-48c77fb121bed85553a911251d2923a5.svg"
-      alt="tenderly" width="60" height="60" /> </a><a href="https://next-stack.github.io/ganache/" target="_blank"
+      src="https://book.getfoundry.sh/images/foundry-banner.png"
+      alt="foundry" width="60" height="60" /> </a><a href="https://book.getfoundry.sh/" target="_blank"
     rel="noreferrer"> <img
       src="https://next-stack.github.io/docs/ganache/images/ganache-logo.png"
-      alt="tenderly" width="60" height="60" /> </a>
+      alt="ganache" width="60" height="60" /> </a>
 </p>
 
 
