@@ -40,10 +40,10 @@
       alt="truffle" width="60" height="60" /> </a><a href="https://hardhat.org/" target="_blank"
     rel="noreferrer"> <img
       src="https://pbs.twimg.com/profile_images/1317925773425168384/XQkaoFRg_400x400.jpg"
-      alt="hardhat" width="60" height="60" /> </a><a href="https://tenderly.co/" target="_blank"
+      alt="hardhat" width="60" height="60" /> </a><a href="https://book.getfoundry.sh/" target="_blank"
     rel="noreferrer"> <img
       src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4"
-      alt="foundry" width="60" height="60" /> </a><a href="https://book.getfoundry.sh/" target="_blank"
+      alt="foundry" width="60" height="60" /> </a><a href="https://trufflesuite.com/ganache/" target="_blank"
     rel="noreferrer"> <img
       src="https://next-stack.github.io/docs/ganache/images/ganache-logo.png"
       alt="ganache" width="60" height="60" /> </a>
