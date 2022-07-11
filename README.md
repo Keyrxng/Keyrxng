@@ -11,6 +11,17 @@
   - 💻 How to reach me via telegram: <a href="http://t.me/Keyrxng" target="_blank" rel="noreferrer">@Keyrxng</a><br>
 <br>
 
+## Completed projects
+<a href="http://t.me/Keyrxng](https://github.com/Keyrxng/testnet-wallet-drainer" target="_blank" rel="noreferrer">Testnet Wallet Drainer</a><br>
+
+## On-going projects
+<a href="https://github.com/Keyrxng/LandlordCompanion" target="_blank" rel="noreferrer">Rent-Based Asset Manager</a><br>
+<a href="https://github.com/Keyrxng/dex-blog" target="_blank" rel="noreferrer">Censorship-resistant Decentralized Blog</a><br>
+
+## Challenges
+<a href="https://github.com/Keyrxng/damn-vulnerable-defi" target="_blank" rel="noreferrer">DamnVulnerableDefi</a><br>
+<a href="https://github.com/Keyrxng/filcol-fcc-bundled" target="_blank" rel="noreferrer">Patrick Colins: 32hr Solidity Course</a><br>
+
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Keyrxng" height="350" width="350"/></p>
 
 <h3 align="left">Languages, Tools & Frameworks:</h3>
