@@ -12,7 +12,7 @@
 <br>
 
 ## Completed projects
-<a href="http://t.me/Keyrxng](https://github.com/Keyrxng/testnet-wallet-drainer" target="_blank" rel="noreferrer">Testnet Wallet Drainer</a><br>
+<a href="https://github.com/Keyrxng/testnet-wallet-drainer" target="_blank" rel="noreferrer">Testnet Wallet Drainer</a><br>
 
 ## On-going projects
 <a href="https://github.com/Keyrxng/LandlordCompanion" target="_blank" rel="noreferrer">Rent-Based Asset Manager</a><br>
