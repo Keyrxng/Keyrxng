@@ -13,7 +13,7 @@
 <br>
 
 ## Completed projects
-<a href="https://github.com/Keyrxng/testnet-wallet-drainer" target="_blank" rel="noreferrer">Testnet Wallet Drainer ✔️</a><br>
+<a href="https://keyrxng.xyz" target="_blank" rel="noreferrer">Testnet Wallet Drainer ✔️</a><br>
 
 ## On-going projects
 <a href="resumesite-1zt.pages.dev/" target="_blank" rel="noreferrer">Interactive Web3 Resume & Sandbox ⏳</a><br>
