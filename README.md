@@ -15,8 +15,11 @@
 <a href="https://github.com/Keyrxng/testnet-wallet-drainer" target="_blank" rel="noreferrer">Testnet Wallet Drainer ✔️</a><br>
 
 ## On-going projects
+<a href="resumesite-1zt.pages.dev/" target="_blank" rel="noreferrer">Interactive Web3 Resume & Sandbox ⏳</a><br>
+<a href="https://github.com/Keyrxng/personal-site-contracts" target="_blank" rel="noreferrer">The Repo Behind The Sandbox ⏳</a><br>
 <a href="https://github.com/Keyrxng/LandlordCompanion" target="_blank" rel="noreferrer">Rent-Based Asset Manager ⏳</a><br>
 <a href="https://github.com/Keyrxng/dex-blog" target="_blank" rel="noreferrer">Censorship-resistant Decentralized Blog ⏳</a><br>
+
 
 ## Challenges
 <a href="https://github.com/Keyrxng/damn-vulnerable-defi" target="_blank" rel="noreferrer">DamnVulnerableDefi ✔️</a><br>
