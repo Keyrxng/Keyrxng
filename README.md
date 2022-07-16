@@ -9,14 +9,14 @@
   - 📫 Currently improving on: learning the Foundry framework<br>
   - 📫 How to reach me via email: `keyrxng@keyrxng.xyz`<br>
   - 💻 How to reach me via telegram: <a href="http://t.me/Keyrxng" target="_blank" rel="noreferrer">@Keyrxng</a><br>
-  - 💻 Checkout my interactive Web3 portfolio: <a href="http://t.me/Keyrxng" target="_blank" rel="noreferrer">it's still under construction!</a><br>
+  - 💻 Checkout my interactive Web3 portfolio: <a href="http://keyrxng.xyz" target="_blank" rel="noreferrer">it's still under construction!</a><br>
 <br>
 
 ## Completed projects
-<a href="https://keyrxng.xyz" target="_blank" rel="noreferrer">Testnet Wallet Drainer ✔️</a><br>
+<a href="https://github.com/Keyrxng/testnet-wallet-drainer" target="_blank" rel="noreferrer">Testnet Wallet Drainer ✔️</a><br>
 
 ## On-going projects
-<a href="resumesite-1zt.pages.dev/" target="_blank" rel="noreferrer">Interactive Web3 Resume & Sandbox ⏳</a><br>
+<a href="https://" target="_blank" rel="noreferrer">Interactive Web3 Resume & Sandbox ⏳</a><br>
 <a href="https://github.com/Keyrxng/personal-site-contracts" target="_blank" rel="noreferrer">The Repo Behind The Sandbox ⏳</a><br>
 <a href="https://github.com/Keyrxng/LandlordCompanion" target="_blank" rel="noreferrer">Rent-Based Asset Manager ⏳</a><br>
 <a href="https://github.com/Keyrxng/dex-blog" target="_blank" rel="noreferrer">Censorship-resistant Decentralized Blog ⏳</a><br>
