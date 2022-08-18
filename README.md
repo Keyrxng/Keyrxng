@@ -7,7 +7,7 @@
     alt="Keyrxng" /> 
   </p>
   - 📫 Currently improving on: learning the Foundry framework<br>
-  - 📫 How to reach me via email: `keyrxng@keyrxng.xyz`<br>
+  - 📫 How to reach me via email: `keyrxng@keyrxng.xyz` or 'keyrxng@proton.me' <br>
   - 💻 How to reach me via Discord: keyrxng#5753 <br>
   - 💻 How to reach me via telegram: <a href="http://t.me/Keyrxng" target="_blank" rel="noreferrer">@Keyrxng</a><br>
   - 💻 Checkout my interactive Web3 portfolio: <a href="https://www.keyrxng.xyz/" target="_blank" rel="noreferrer">it's still under construction!</a><br>
