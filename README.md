@@ -6,7 +6,7 @@
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Keyrxng&label=Profile%20views&color=0e75b6&style=flat"
     alt="Keyrxng" /> 
   </p>
-  - 📫 Currently improving on: learning the Foundry framework<br>
+  - 📫 Currently improving on: social growth and networking<br>
   - 📫 How to reach me via email: `keyrxng@proton.me` <br>
   - 💻 How to reach me via Discord: keyrxng#5753 <br>
   - 💻 How to reach me via telegram: <a href="http://t.me/Keyrxng" target="_blank" rel="noreferrer">@Keyrxng</a><br>
