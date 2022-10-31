@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Keyrxng 👋</h1>
-<h3 align="center">I'm a Junior Blockchain and Web3 developer.</h3>
+<h3 align="center">I'm a Blockchain and Web3 developer.</h3>
 
 <br>
 
@@ -7,7 +7,7 @@
     alt="Keyrxng" /> 
   </p>
   - 📫 Currently improving on: learning the Foundry framework<br>
-  - 📫 How to reach me via email: `keyrxng@keyrxng.xyz` or 'keyrxng@proton.me' <br>
+  - 📫 How to reach me via email: `keyrxng@proton.me` <br>
   - 💻 How to reach me via Discord: keyrxng#5753 <br>
   - 💻 How to reach me via telegram: <a href="http://t.me/Keyrxng" target="_blank" rel="noreferrer">@Keyrxng</a><br>
   - 💻 Checkout my interactive Web3 portfolio: <a href="https://www.keyrxng.xyz/" target="_blank" rel="noreferrer">it's still under construction!</a><br>
@@ -20,8 +20,7 @@
 ## On-going projects
 <a href="https://" target="_blank" rel="noreferrer">Interactive Web3 Resume & Sandbox ⏳</a><br>
 <a href="https://github.com/Keyrxng/personal-site-contracts" target="_blank" rel="noreferrer">The Repo Behind The Sandbox ⏳</a><br>
-<a href="https://github.com/Keyrxng/LandlordCompanion" target="_blank" rel="noreferrer">Rent-Based Asset Manager ⏳</a><br>
-<a href="https://github.com/Keyrxng/dex-blog" target="_blank" rel="noreferrer">Censorship-resistant Decentralized Blog ⏳</a><br>
+<a href="https://github.com/Keyrxng/DBlog" target="_blank" rel="noreferrer">Censorship-resistant Decentralized Blog ⏳</a><br>
 
 
 ## Challenges
