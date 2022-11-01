@@ -16,11 +16,12 @@
 ## Completed projects
 <a href="https://github.com/Keyrxng/testnet-wallet-drainer" target="_blank" rel="noreferrer">Testnet Wallet Drainer ✔️</a><br>
 <a href="https://github.com/Keyrxng/Web3-Payment-Portal" target="_blank" rel="noreferrer">Fiat to Crypto Payment Portal ✔️</a><br>
+<a href="https://github.com/Keyrxng/DBlog" target="_blank" rel="noreferrer">Censorship-resistant Decentralized Blog ⏳</a><br>
+
 
 ## On-going projects
 <a href="https://" target="_blank" rel="noreferrer">Interactive Web3 Resume & Sandbox ⏳</a><br>
 <a href="https://github.com/Keyrxng/personal-site-contracts" target="_blank" rel="noreferrer">The Repo Behind The Sandbox ⏳</a><br>
-<a href="https://github.com/Keyrxng/DBlog" target="_blank" rel="noreferrer">Censorship-resistant Decentralized Blog ⏳</a><br>
 
 
 ## Challenges
