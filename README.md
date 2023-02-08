@@ -80,14 +80,12 @@
       alt="Foundry" width="60" height="60" /> 
 </a>
 </p> -->
-<!-- <p>
-  <img align="right"
+<p>
+  <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Keyrxng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=css"
     alt="Keyrxng" 
     bg_color=#808080/>
-</p> -->
-
-
+</p>
 
 <p>
   <img align="right" 
@@ -95,16 +93,18 @@
     alt="Keyrxng" />
 </p>
 
-
 <p>
    <img align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Keyrxng&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
         alt="Keyrxng" />
 </p>
 
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/keyrxng/keyrxng/output/github-snake.svg#gh-light-mode-only" />
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/keyrxng/keyrxng/output/github-snake-dark.svg#gh-dark-mode-only" />
 </p>
