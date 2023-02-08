@@ -8,7 +8,6 @@
 
 
 
-<br>
   <p align="center">
       * 💻 Telegram: <a href="http://t.me/Keyrxng" target="_blank" rel="noreferrer">@Keyrxng</a><br>
       * 💻 Discord: keyrxng#5753 <br>
@@ -16,8 +15,7 @@
       * 📫 Currently improving on: social growth and networking<br>
       * 💻 Checkout my interactive Web3 portfolio: <a href="https://www.keyrxng.xyz/" target="_blank" rel="noreferrer">it's still under construction!</a>
     </p>
-   <br>
-<br>
+
 
 <h1 align="center"> Dead timewasters </h1>
 <p align="center">
@@ -80,13 +78,13 @@
       alt="Foundry" width="60" height="60" /> 
 </a>
 </p> -->
-<p>
+<!-- <p>
   <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Keyrxng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=css"
     alt="Keyrxng" 
     bg_color=#808080/>
 </p>
-
+ -->
 <p>
   <img align="right" 
     src="https://github-readme-stats.vercel.app/api?username=Keyrxng&show_icons=true&count_private=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
