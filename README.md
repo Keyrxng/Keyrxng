@@ -1,11 +1,11 @@
 <div>
   <div align="left">
-    <img src="https://avatars.githubusercontent.com/u/76412717?s=200&v=4" alt="UBQ" width="50px"/>
     <a href="https://github.com/ubiquity" style="color: #3fae" target="_blank">
-      <big>UbiquityDAO</big>
+    <img src="https://avatars.githubusercontent.com/u/76412717?s=200&v=4" alt="UBQ" width="50px"/>
+      UbiquityDAO
     </a>
-    <p style="color: violet">
-      <big>Dev Pool</big>
+    <p>
+      Dev Pool: Contributor
     </p>
   </div>
 
@@ -26,7 +26,7 @@
     </a>
     <img src="https://avatars.githubusercontent.com/u/125381663?s=200&v=4" alt="WagerDAO" width="50px">
     <p style="color: violet">
-      <big>Consultant</big>
+      Consultant: Security & Design
     </p>
   </div>
   
