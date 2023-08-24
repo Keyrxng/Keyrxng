@@ -1,9 +1,9 @@
-<div style="display: flex; gap: 20px; justify-content: space-between">
+<div>
   <div align="left">
+    <img src="https://avatars.githubusercontent.com/u/76412717?s=200&v=4" alt="UBQ" width="50px"/>
     <a href="https://github.com/ubiquity" style="color: #3fae" target="_blank">
       <big>UbiquityDAO</big>
     </a>
-    <img src="https://avatars.githubusercontent.com/u/76412717?s=200&v=4" alt="UBQ" width="50px"/>
     <p style="color: violet">
       <big>Dev Pool</big>
     </p>
@@ -240,13 +240,8 @@
   </div>
   <hr/>
 
-  <div style="display: flex; justify-content: space-between;">
-
+  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Keyrxng&show_icons=true&theme=dark" style="width: 100%; margin-right: 3px"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keyrxng&layout=compact&theme=dark" style="width: 76%; margin-left: 3px"/>
-
-  </div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keyrxng&theme=dark" style="margin-top: 6px; width: 100%"/>
 </div>
 </div>
