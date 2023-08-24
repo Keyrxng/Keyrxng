@@ -1,17 +1,5 @@
-<style>
-  .project-container {
-    margin: 10px 0;
-    padding: 10px;
-  }
-  
-  .summary-style {
-    color: #3fae;
-  }
-</style>
-
 <div style="display: flex; gap: 20px; justify-content: space-between">
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div align="left">
     <a href="https://github.com/ubiquity" style="color: #3fae" target="_blank">
       <big>UbiquityDAO</big>
     </a>
@@ -21,7 +9,7 @@
     </p>
   </div>
 
-  <div style="display: flex; flex-direction: column; justify-content: space-between">
+  <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Keyrxng&color=blueviolet&style=flat-square" alt="Keyrxng" />
     <a href="https://github.com/Keyrxng" target="_blank">
     <img src="https://img.shields.io/github/followers/Keyrxng?color=blueviolet&label=Follow%20My%20GitHub&logo=github&style=flat-square" alt="Keyrxng" />
@@ -32,7 +20,7 @@
 
   </div>
   
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div align="right">
     <a href="https://github.com/WagerDAO-Official" style="color: #3fae" target="_blank">
       <big>WagerDAO</big>
     </a>
