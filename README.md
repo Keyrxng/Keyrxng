@@ -4,8 +4,8 @@
     <img src="https://avatars.githubusercontent.com/u/76412717?s=200&v=4" alt="UBQ" width="50px"/>
       UbiquityDAO
     </a>
-    <p>
-      Dev Pool: Contributor
+    <p align="left">
+      $\mathfrak{\color{violet} Contributor}$
     </p>
   </div>
 
@@ -25,8 +25,8 @@
       <big>WagerDAO</big>
     </a>
     <img src="https://avatars.githubusercontent.com/u/125381663?s=200&v=4" alt="WagerDAO" width="50px">
-    <p style="color: violet">
-      Consultant: Security & Design
+    <p align="right">
+      $\mathfrak{\color{violet} Consultant}$
     </p>
   </div>
   
@@ -45,7 +45,7 @@
 
 📘 I plan to write short and longform content about various topics, including but not limited to front and backend Web3 development, Solidity and AI. Once shipped you'll find them on my new portfolio site.
 
-📫 You can reach me on Twitter or Discord: <span style="color: violet">**@Keyrxng**</span>
+📫 You can reach me on Twitter or Discord: $\mathbb{\color{violet} @Keyrxng}$
 
 - I'm always open to new opportunities, so feel free to reach out if you think I'd be a good fit for your project.
 
