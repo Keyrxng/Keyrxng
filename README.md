@@ -241,7 +241,31 @@
   <hr/>
 
   <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Keyrxng&show_icons=true&theme=dark" style="width: 100%; margin-right: 3px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keyrxng&theme=dark" style="margin-top: 6px; width: 100%"/>
+  
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=keyrxng&theme=darkhub&column=-1&margin-w=15&show_icons=true&rank_icon=github">
+</p>
+
+
+<p align="center">
+<img width="250"  height="60" align="center" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/df96a80f-eab5-469c-a0c3-a705c30ba42a"/>
+</p>
+
+
+<br>
+
+ <p align="center">
+ <img height="500" align="left" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/5425529e-e2be-4198-a127-b9c6407179bf">
+
+<img align="center"  width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=keyrxng&theme=black-ice&show_icons=true&rank_icon=github"/>
+
+<img height="500" align="right" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/80c7dce6-4792-4370-826b-a60520b00c73">
+
+</p>
+ 
+  <p align="center">
+<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=keyrxng&show_icons=true&bg_color=141414&text_color=fff&title_color=00e6fe&icon_color=00e6fe"/>
+ </p>
+
 </div>
 </div>
