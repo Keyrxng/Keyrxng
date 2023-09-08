@@ -32,23 +32,6 @@
   
 </div>
 
-
-<hr/>
-
-🙋‍♂️ Hi, I'm Keyrxng (aka Kieran), a full-stack developer from the UK.
-
-💻 I'm generally interested in all things tech, but I'm particularly interested in Web3, AI, and Smart Contract Security. While I hold down a 9-5 (bigup Dolly P), it's not in the sector I want to be in, so I'm working hard to get into the Web3 space full time.
-
-🧠 I'm currently learning more about TypeScript, NextJS, Smart Contract Security as well as AI and Machine Learning.
-
-👨‍💻 I'm currently working on building a name for myself in the Web3 space, as well as continuing to build a portfolio of projects and clients.
-
-📘 I plan to write short and longform content about various topics, including but not limited to front and backend Web3 development, Solidity and AI. Once shipped you'll find them on my new portfolio site.
-
-📫 You can reach me on Twitter or Discord: $\mathbb{\color{violet} @Keyrxng}$
-
-- I'm always open to new opportunities, so feel free to reach out if you think I'd be a good fit for your project.
-
 <hr/>
 
 <div style="display: flex; flex-direction: row; gap: 10px; flex-direction: row; justify-content: space-between">
@@ -241,31 +224,14 @@
   <hr/>
 
   <div>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=keyrxng&theme=darkhub&column=-1&margin-w=15&show_icons=true&rank_icon=github">
+  </div>
+  <br/>
   
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=keyrxng&theme=darkhub&column=-1&margin-w=15&show_icons=true&rank_icon=github">
-</p>
-
-
-<p align="center">
-<img width="250"  height="60" align="center" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/df96a80f-eab5-469c-a0c3-a705c30ba42a"/>
-</p>
-
-
-<br>
-
- <p align="center">
- <img height="500" align="left" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/5425529e-e2be-4198-a127-b9c6407179bf">
-
-<img align="center"  width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=keyrxng&theme=black-ice&show_icons=true&rank_icon=github"/>
-
-<img height="500" align="right" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/80c7dce6-4792-4370-826b-a60520b00c73">
-
-</p>
- 
-  <p align="center">
-<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=keyrxng&show_icons=true&bg_color=141414&text_color=fff&title_color=00e6fe&icon_color=00e6fe"/>
- </p>
-
-</div>
+   <div>
+      <img align="right"  width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=keyrxng&theme=black-ice&show_icons=true&rank_icon=github"/>
+   </div>
+  
+  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=keyrxng&show_icons=true&bg_color=141414&text_color=fff&title_color=00e6fe&icon_color=00e6fe"/>
+    
 </div>
