@@ -227,11 +227,4 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=keyrxng&theme=darkhub&column=-1&margin-w=15&show_icons=true&rank_icon=github">
   </div>
   <br/>
-  
-   <div>
-      <img align="right"  width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=keyrxng&theme=black-ice&show_icons=true&rank_icon=github"/>
-   </div>
-  
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=keyrxng&show_icons=true&bg_color=141414&text_color=fff&title_color=00e6fe&icon_color=00e6fe"/>
-    
 </div>
