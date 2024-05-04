@@ -15,10 +15,12 @@
 </div>
 <hr/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keyrxng&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
 <br/>
+  <p align="center"
+    <a href="https://github.com/keyrxng/github-readme-stats"><img alt="Keyrxngs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keyrxng&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/keyrxng/github-readme-stats"><img alt="Keyrxng's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyrxng&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+   </p>
 
   <div>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=keyrxng&theme=darkhub&column=-1&margin-w=15&show_icons=true&rank_icon=github">
