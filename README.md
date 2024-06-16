@@ -15,6 +15,8 @@
 </div>
 <hr/>
 
+> It is nobler to have courage as we stumble into half the things we fear than to analyze every possible obstacle and begin nothing
+
 <br/>
   <p align="center"
     <a href="https://github.com/keyrxng/github-readme-stats"><img alt="Keyrxngs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keyrxng&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
