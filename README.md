@@ -41,6 +41,7 @@ Check my **pinned repositories** for more details on these projects!
 - **[ubiquity-os-plugin-installer](https://github.com/ubq-testing/ubiquity-os-plugin-installer)** - *A GUI to install UbiquityOS plugins.* A vanilla TypeScript & CSS app that allows users to install and configure UbiquityOS' kernel plugins from the marketplace. Worked extensively with strict schema validation, deconstruction, and input rendering using Typebox & AJV. Integrated with GitHub to push configurations directly to the intended source.
 - **[command-ask](https://github.com/ubq-testing/ask-plugin)** - *A GitHub-integrated AI chatbot.* I authored V1 and V2, establishing its foundational structure. It's highly context-aware of conversational history in issues/PRs and their linked discussions. While it has evolved with additional features, having authored multiple versions and the bulk of the logic I still feel a sense of 'ownership'.
 - **[dao-analytics](https://github.com/ubiquity-os/dao-analytics)** - *A plugin & UI for GitHub org analytics.* Collects and visualizes contributions, average task durations, and other key productivity metrics. I proposed and developed this to help the DAO explore monetization opportunities through analytical insights.
+- **[webauthn-evm-signing-key](https://github.com/ubiquity/webauthn-evm-signing-key)** - *A novel Account Abstraction implementation.* Enables truly wallet-less blockchain accounts by securing EOAs with WebAuthn cryptography via passkeys or mobile devices. Leverages server-side key derivation for seamless, password-free authentication within the UbiquityOS ecosystem.
 - All of the above I authored from the ground up. While there is more I could list, these are the contributions I consider most impactful.
 
 
@@ -48,7 +49,7 @@ Check my **pinned repositories** for more details on these projects!
 
 ### 📈 Some of My Other Impacts at UbiquityOS
 
-- **200+ merged PRs** into production software.
+- **150+ merged PRs** into production software.
 - **Progressed from open-source contributor to flagship product lead in under a year.**
 - **Promoted again within 2 months** of leadership.
 - **Ran the most successful talent onboarding & recruitment initiative** since the company's inception—beginner's luck or a natural?
