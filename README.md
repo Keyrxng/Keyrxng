@@ -21,7 +21,7 @@ How's it going? - I'm a self-taught engineer still sanding rough edges off how I
 
 - Writing
 - Rust
-- AI Context pipelines 
+- AI Context pipelines ([Cortex](https://github.com/Keyrxng/Cortex))
 - Open to new work 
 
 ## Writing
@@ -30,12 +30,9 @@ How's it going? - I'm a self-taught engineer still sanding rough edges off how I
 2. Stretch risk — [The merge that changed everything](https://www.keyrxng.xyz/writing/production-safe-uups) (UUPS, audit survival).
 3. Discipline — [Context engineering](https://www.keyrxng.xyz/writing/context-engineering) (moving beyond prompt tinkering and writing retrospectives).
 4. Temporality in vector-space — [The Ghost's footprint](https://www.keyrxng.xyz/writing/ghost-in-the-machine-part-1) (mine).
+5. 12-Factor Agents — [Why I like them](https://www.keyrxng.xyz/writing/12-factor-agents)
 
 See more at [`/writing`](https://www.keyrxng.xyz/writing).
-
-## Principles (Snapshot)
-
-Subtractive first. Keep blast radius small. Make the flaky path deterministic before optimizing. Precompute shape instead of asking compilers or models to guess repeatedly. Leave headroom (time, tokens, people). Ship a thin slice, watch it under real load, then harden. Most of this is borrowed; I'm still iterating on where it breaks.
 
 ## Contact
 
